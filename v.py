@@ -1,1 +1,1 @@
-Class
+Printf("KGF");
